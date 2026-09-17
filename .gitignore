@@ -1,0 +1,14 @@
+# Python (scripts das skills)
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Segredos e configuração local
+.env.local
+.env
+
+# Saída do graphify
+graphify-out/
